@@ -1,0 +1,51 @@
+# Geotechnik — Velbert
+
+> Geotechnical engineering services in Velbert, Deutschland.
+
+## Services
+- [Anker](https://velbert.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://velbert.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://velbert.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://velbert.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://velbert.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://velbert.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://velbert.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://velbert.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://velbert.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://velbert.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://velbert.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://velbert.geotechnik.biz/fundamente/)
+- [Grundungen](https://velbert.geotechnik.biz/grundungen/)
+- [Hange](https://velbert.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://velbert.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://velbert.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://velbert.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://velbert.geotechnik.biz/labor/)
+- [Labor In Situ](https://velbert.geotechnik.biz/labor-in-situ/)
+- [Masw](https://velbert.geotechnik.biz/masw/)
+- [Pfahle](https://velbert.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://velbert.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://velbert.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://velbert.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://velbert.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://velbert.geotechnik.biz/schurfgruben/)
+- [Seismik](https://velbert.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://velbert.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://velbert.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://velbert.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://velbert.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://velbert.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://velbert.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://velbert.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://velbert.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://velbert.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://velbert.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://velbert.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://velbert.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://velbert.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Velbert, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
